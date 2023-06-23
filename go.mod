@@ -3,7 +3,7 @@ module github.com/chipsnet/go-study-misskey-api
 go 1.20
 
 require (
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.3
 	github.com/yitsushi/go-misskey v1.1.2
 	gopkg.in/ini.v1 v1.67.0
 )
