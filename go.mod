@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/sirupsen/logrus v1.9.0
 	github.com/yitsushi/go-misskey v1.1.2
-	gopkg.in/ini.v1 v1.67.0
+	gopkg.in/ini.v1 v1.67.3
 )
 
 require (
